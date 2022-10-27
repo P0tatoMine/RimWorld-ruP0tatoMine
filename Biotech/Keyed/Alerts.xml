@@ -6,7 +6,7 @@
   <AlertMechLacksOverseerUncontrolled>Эти механоиды не под вашим контролем!</AlertMechLacksOverseerUncontrolled>
   <AlertMechLacksOverseerMayGoFeral>Эти механоиды не подконтролем и могут убрести в любой момент.</AlertMechLacksOverseerMayGoFeral>
 
-  <AlertWarqueenHasLowResources>{0} имеет мало ресурсы</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResources>{0} имеет мало ресурсов</AlertWarqueenHasLowResources>
   <AlertWarqueenHasLowResourcesDesc>Один или более {0} имеет мало ресурсов. Они будут неспособны создавать механоидов если у них закончатся ресурсы.</AlertWarqueenHasLowResourcesDesc>
 
   <AlertLowDeathrestPawn>{PAWN} нужен "Глубокий сон"! </AlertLowDeathrestPawn>
